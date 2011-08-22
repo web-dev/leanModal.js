@@ -62,7 +62,7 @@
                     'display' : 'block',
                     'position' : 'fixed',
                     'opacity' : 0,
-                    'z-index': 11000,
+                    'z-index': 9999,
                     'left' : 50 + '%',
                     'margin-left' : -(modal_width/2) + "px",
                     'top' : options.top + "px"
